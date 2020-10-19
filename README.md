@@ -1,4 +1,4 @@
-![capa_git](https://github.com/edbbarros/edbbarros/blob/main/imagens/Capa-Github.png)  
+![](https://github.com/edbbarros/edbbarros/blob/main/imagens/Capa-Github.png)  
 
 <center>
 <table>
