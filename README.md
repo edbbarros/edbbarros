@@ -1,4 +1,4 @@
-![capa github](https://github.com/edbbarros/edbbarros/blob/main/imagens/Capa-Github.png)  
+![](https://github.com/edbbarros/edbbarros/blob/main/imagens/Capa_Github.png)  
 
 <center>
 <table>
@@ -9,3 +9,4 @@
 </table>
 </center>  
 
+![](https://komarev.com/ghpvc/?username=edbbarros&color=blue&style=flat)
