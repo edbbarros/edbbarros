@@ -9,3 +9,4 @@
 </table>
 </center>  
 
+![](https://komarev.com/ghpvc/?username=edbbarros&color=blue&style=flat)
