@@ -14,7 +14,7 @@
 ---
 
 Olá! Meu nome é Eduardo e sou estudante de informática para internet, no IFPE de Jaboatão dos Guararapes, 
-atualmente eu estou no segundo período com a previsão de me formar ano que vem, também estou fazendo curso de desenvolvimento mobile com 
+atualmente eu estou no segundo período com a previsão de me formar ano que vem (2021), também estou fazendo curso de desenvolvimento mobile com 
 flutter que foi oferecido pela prefeitura da minha cidade.
 Atualmente sou bolsista no PIBEX,  que é um projeto de extensão oferecido pelo IFPE, nele eu fico responsável pelo desenvolvimento 
 Front End, usando react e materialize.
