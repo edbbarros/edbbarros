@@ -1,4 +1,4 @@
-![](https://github.com/edbbarros/edbbarros/blob/main/imagens/Capa_Github.png)  
+
 
 <center>
 <table>
@@ -17,21 +17,15 @@ Meu nome é Eduardo e sou formado em informática para internet, no IFPE de Jabo
 
 ---
 
-Desde pequeno sempre fui curioso, e hoje não seria diferente, gosto de estudar sobre o universo, tecnologia e desenvolvimento pessoal.
+Desenvolvedor Front-end, com mais de 1 ano de experiência na area de tecnologia, formado em Informática para internet no instituto federal de Pernambuco (IFPE - Jaboatão) possuo experiencia em desenvolvimento e manutenção de aplicações Web e estou adquirindo conhecimento para aplicações mobile.
 
-Nos tempos livres, eu curto praticar esportes o principal deles é o ciclismo! Um esporte que amo e é a minha terapia, 
-sempre nos meus treinos vou ouvindo música que é essencial para a minha saúde mental.
-
---- 
-
-Fui bolsista durante 9 meses no PIBEX, que é um projeto de extensão oferecido pelo IFPE, nele eu fui responsável pelo desenvolvimento Front - End.
+Possuo conhecimento em JavaScript usando no React, html, css, bootstrap e typeScript uitlizei também o sistema Jira para usar a metodologia ágil Scrum.
 
 --- 
 
 Atualmente estou em busca de uma oportunidade como desenvolvedor Front – End.
 
 ---
-
 
 
 
